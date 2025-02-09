@@ -1,3 +1,5 @@
+## this fork is to provide Laravel 12 compatibility
+
 # Laravel Config Writer
 
 [![Version](https://img.shields.io/github/v/release/wintercms/laravel-config-writer?sort=semver&style=flat-square)](https://github.com/wintercms/laravel-config-writer/releases)
